@@ -1,0 +1,389 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Dewey Will",
+      "id": 42
+    },
+    {
+      "name": "Kristy Johns",
+      "id": 43
+    },
+    {
+      "name": "Juan Ziemann",
+      "id": 44
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Handcrafted Wooden Hat",
+      "id": 11
+    },
+    {
+      "userId": 42,
+      "title": "Refined Rubber Pizza",
+      "id": 12
+    },
+    {
+      "userId": 43,
+      "title": "Tasty Soft Pants",
+      "id": 15
+    },
+    {
+      "userId": 43,
+      "title": "Handmade Metal Towels",
+      "id": 16
+    },
+    {
+      "userId": 42,
+      "title": "Rustic Fresh Ball",
+      "id": 17
+    },
+    {
+      "userId": 44,
+      "title": "Sleek Fresh Bike",
+      "id": 18
+    },
+    {
+      "userId": 44,
+      "title": "Incredible Granite Soap",
+      "id": 20
+    },
+    {
+      "userId": 43,
+      "title": "Gorgeous Concrete Salad",
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Wooden Shirt",
+      "id": 22
+    },
+    {
+      "userId": 42,
+      "title": "Fantastic Metal Car",
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Metal Chair",
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Bronze Cheese",
+      "id": 25
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1901736520318976",
+      "id": 1
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=814873898385408",
+      "id": 2
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6501349986402304",
+      "id": 3
+    },
+    {
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2393879621926912",
+      "id": 4
+    },
+    {
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5785443157147648",
+      "id": 6
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7491015778762752",
+      "id": 7
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4435976235515904",
+      "id": 8
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6840385810726912",
+      "id": 9
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3787709925556224",
+      "id": 10
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4998402158886912",
+      "id": 11
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1237511712014336",
+      "id": 12
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1322501101584384",
+      "id": 13
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2280455999062016",
+      "id": 14
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4758077756669952",
+      "id": 15
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3778690496331776",
+      "id": 16
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4990095144779776",
+      "id": 17
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7434157175078912",
+      "id": 18
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=259661666189312",
+      "id": 19
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=445480792227840",
+      "id": 20
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2817631832768512",
+      "id": 21
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=223418058276864",
+      "id": 22
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=308529250435072",
+      "id": 23
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6735509520908288",
+      "id": 24
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8796322932981760",
+      "id": 25
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3900999857078272",
+      "id": 26
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7878769750573056",
+      "id": 27
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1114013687611392",
+      "id": 28
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3782170615218176",
+      "id": 29
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1605798968950784",
+      "id": 30
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6749438351507456",
+      "id": 31
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7429736240250880",
+      "id": 32
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7717349109006336",
+      "id": 33
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7044866299133952",
+      "id": 34
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2416352102973440",
+      "id": 35
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1546818313781248",
+      "id": 36
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3016193067712512",
+      "id": 37
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1917458067750912",
+      "id": 38
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6077246299176960",
+      "id": 39
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6755470243004416",
+      "id": 40
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8470379613913088",
+      "id": 41
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7408741481709568",
+      "id": 42
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8107844964450304",
+      "id": 43
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2632554668621824",
+      "id": 44
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4955385880379392",
+      "id": 45
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4456935417970688",
+      "id": 46
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5601143858135040",
+      "id": 47
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3143290136297472",
+      "id": 49
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2414643670679552",
+      "id": 50
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6850774178988032",
+      "id": 51
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2933056063143936",
+      "id": 56
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2084995642425344",
+      "id": 57
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=120155340275712",
+      "id": 58
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7526149668208640",
+      "id": 60
+    },
+    {
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4982808766316544",
+      "id": 62
+    },
+    {
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6251272950775808",
+      "id": 64
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2080493468123136",
+      "id": 65
+    },
+    {
+      "albumId": 25,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6389722083491840",
+      "id": 66
+    },
+    {
+      "albumId": 25,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1575820059475968",
+      "id": 67
+    },
+    {
+      "albumId": 25,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5049314063679488",
+      "id": 68
+    },
+    {
+      "albumId": 25,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6950952825257984",
+      "id": 69
+    },
+    {
+      "albumId": 25,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2558135428448256",
+      "id": 70
+    }
+  ]
+}
